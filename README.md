@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **React, NEXT.js, gRPC,**
 
-- ⚡ Fun fact **I**
+- ⚡ Fun fact **I Don't Understand My Own Code😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
